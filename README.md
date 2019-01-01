@@ -10,7 +10,7 @@ One of the most important thing nowaday in data science is be able to deal with 
 The data is protected, so you cannnot try your own approach. But I encourage you to read my code and comment if you can suggest something more interesting or suggest to try another approach and so one.
 
 ## Authors
-Mdhvince
+Medhy Vinceslas
 
 ## License
 Project under the <a href='https://choosealicense.com/licenses/cc0-1.0/'>CC0-1.0</a> License
