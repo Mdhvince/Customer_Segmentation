@@ -1,7 +1,7 @@
 # Customer_Segmentation
 
 ## Motivation
-One of the most important thing nowaday in data science is be able to deal with business cases. And Customer segmentatation is a task that a lot of companies care about.
+Leveraged unsupervised learning techniques like principle component analysis and k-means clustering to compare demographics data for a German mail-order company to demographics of the German population at large. Used pandas and scikit-learn libraries to wrangle the data, perform dimensionality reduction, and clustering. Compared cluster sizes between the general population and the customer base to determine features that are aligned with the target audience.
 
 ## File description
 - Identify_Customer_Segments.ipynb : Analyse and ML using PCA and KMeans
